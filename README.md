@@ -6,4 +6,4 @@ https://gadm.org/download_country_v3.html
 
 https://mapshaper.org
 
-geojson.io
+https://geojson.io
