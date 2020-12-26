@@ -5,8 +5,8 @@
         "properties": {
             "adcode": "110000",
             "name": "Northern Ireland",
-            "center": [116.405285, 39.904989],
-            "centroid": [116.419889, 40.189911],
+            "center": [-6, 54],
+            "centroid": [-6, 54],
             "childrenNum": 16,
             "level": "province",
             "parent": {
@@ -168,8 +168,8 @@
         "properties": {
             "adcode": "120000",
             "name": "Wales",
-            "center": [117.190182, 39.125596],
-            "centroid": [117.347019, 39.28803],
+            "center": [-4, 53],
+            "centroid": [-4, 53],
             "childrenNum": 16,
             "level": "province",
             "parent": {
@@ -395,7 +395,7 @@
         "properties": {
             "adcode": "130000",
             "name": "England",
-            "center": [114.502461, 38.045474],
+            "center": [-1, 53],
             "centroid": null,
             "childrenNum": 11,
             "level": "province",
@@ -1100,8 +1100,8 @@
         "properties": {
             "adcode": "140000",
             "name": "Scotland",
-            "center": [112.549248, 37.857014],
-            "centroid": [112.305091, 37.618942],
+            "center": [-3, 57],
+            "centroid": [-3, 57],
             "childrenNum": 11,
             "level": "province",
             "parent": {
