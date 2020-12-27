@@ -1,39 +1,58 @@
 {
     "type": "FeatureCollection",
-    "features": [{
-        "type": "Feature",
-        "properties": {
-            "shape": "Polygon",
-            "name": "Unnamed Layer",
-            "category": "default"
-        },
-        "geometry": {
-            "type": "Polygon",
-            "coordinates": [
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"adcode": "110000",
+			"name": "北京市",
+			"center": [116.405285, 39.904989],
+			"centroid": [116.419889, 40.189911],
+			"childrenNum": 16,
+			"level": "province",
+			"parent": {
+				"adcode": 100000
+			},
+			"subFeatureIndex": 0,
+			"acroutes": [100000],
+			"adchar": null
+		},
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
                 [
-                    [-3.353577, 52.811063],
-                    [-3.510132, 52.727976],
-                    [-3.23822, 52.684708],
-                    [-3.353577, 52.811063]
+                    [116.812128, 39.616018],
+					[116.79057, 39.596196],
+					[116.753613, 39.618322],
+					[116.717273, 39.603572]
                 ]
             ]
         },
         "id": "f312d3f1-313a-44c1-a2e8-a5d6f399a009"
     }, {
-        "type": "Feature",
-        "properties": {
-            "shape": "Polygon",
-            "name": "Unnamed Layer",
-            "category": "default"
-        },
-        "geometry": {
-            "type": "Polygon",
-            "coordinates": [
+		"type": "Feature",
+		"properties": {
+			"adcode": "120000",
+			"name": "天津市",
+			"center": [117.190182, 39.125596],
+			"centroid": [117.347019, 39.28803],
+			"childrenNum": 16,
+			"level": "province",
+			"parent": {
+				"adcode": 100000
+			},
+			"subFeatureIndex": 1,
+			"acroutes": [100000],
+			"adchar": null
+		},
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
                 [
-                    [-3.424988, 52.598043],
-                    [-3.595276, 52.48278],
-                    [-3.290405, 52.467724],
-                    [-3.424988, 52.598043]
+                    [117.765602, 39.400437],
+					[117.699696, 39.407372],
+					[117.673211, 39.386565],
+					[117.668899, 39.411995],
+					[117.570965, 39.404598]
                 ]
             ]
         },
